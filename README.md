@@ -7,7 +7,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Metodo-Numerico-de-Falsa-Posicion)
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/Metodo-Numerico-de-Falsa-Posicion/total)
-![Tested with MATLAB](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadriancrc%2FMetodo-Numerico-de-Falsa-Posicion%2Fmain%2Freport%2Fbadge%2Ftested_with.json)
+![Tested with MATLAB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/adriancrc/Metodo-Numerico-de-Falsa-Posicion/main/report/badge/tested_with.json)
 ![Made with MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Use Case](https://img.shields.io/badge/Use-Educational-success)
