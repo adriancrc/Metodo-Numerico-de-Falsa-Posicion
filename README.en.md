@@ -1,6 +1,6 @@
 # Closed Numerical Method: False Position (Regula Falsi)
 
-🇪🇸 Versión en español disponible aquí: [README.md](README.md)
+🌐 Este README también está disponible en Español 🇪🇸: [README.md](README.md)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Metodo-Numerico-de-Falsa-Posicion)  
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/)
