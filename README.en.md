@@ -201,4 +201,14 @@ Questions or suggestions?
 
 ---
 
+## ⭐ Don't forget to rate!
+
+If you found this material useful, please support it by leaving a ⭐⭐⭐⭐⭐ rating on the project page.  
+Your feedback helps improve and keep sharing resources!
+
+[![Rate this project](https://img.shields.io/badge/★★★★★-Rate%20on%20File%20Exchange-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181740-metodo-numerico-de-falsa-posicion)
+
+---
+
+
 © 2025 Adrián José Quesada Martínez
